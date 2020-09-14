@@ -1,2 +1,3 @@
 Hello there!
 Goodbye ?
+Third state.
